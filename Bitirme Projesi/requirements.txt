@@ -1,0 +1,11 @@
+Flask
+flask_session
+pyrebase4
+mediapipe
+opencv-python
+numpy
+pyttsx3
+google-generativeai
+gtts
+requests
+matplotlib
